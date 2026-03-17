@@ -28,7 +28,7 @@
 
 ## 📄 발표자료 / 보고서
 
-- 발표자료(PDF): `docs/blackjack_presentation.pdf`
+- 발표자료(PDF): `blackjack_final_slides.pdf`
 
 ---
 
